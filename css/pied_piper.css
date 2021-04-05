@@ -1,0 +1,104 @@
+body {
+	width: 1219px;
+	margin: 0 auto;
+}
+header {
+	background-color: #007765;
+	position: relative;
+}
+
+.logo {
+	display: inline-block;
+	margin: 20px 0 19px 55px;
+}
+nav {
+	display: inline-block;
+	position: absolute; right: 54px; top: 29px; bottom: 26px;
+}
+a {
+	color: #FFFFFF;
+	font-size: 24px;
+	font-weight: normal;  /*есть вопрос по данному свойству*/
+	text-decoration: none;
+}
+.piper_net_back {
+	background-image: url(../img/piper_net_is_here.png);
+}
+.roboto {
+	font-family: Roboto, sans-serif;
+	color: #FFFFFF;
+}
+.piper_net {
+	padding: 160px 0 160px 0;
+	text-align: center;
+	font-size: 72px;
+	font-weight: bold;
+	margin: 0;
+}
+h2 {
+	font-size: 64px;
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+	text-align: center;
+	color: #007765;
+	padding: 0;
+	margin: 0;
+}
+.the_problem_p {
+	font-size: 32px;
+	font-family: Roboto, sans-serif;
+	font-weight: medium;
+	margin-top: 16px;
+}
+.the_problem {
+	padding: 48px 55px 92px 55px;
+}
+.together {
+	padding: 128px 163px;
+	font-size: 48px;
+	font-family: Roboto, sans-serif;
+	font-weight: medium;
+	background-image: url(../img/together.png);
+	margin: 0;
+	text-align: center;
+	color: #FFFFFF;
+	font-style: italic;
+	}
+.last_problem_p {
+	margin-bottom: 0;
+	}
+.together_p {
+	margin: 0;
+}
+.introducing {
+
+
+}
+.ppc_logo { 
+	float: left;
+	margin: 16px 48px 35px 55px;
+}
+.clearfix {
+	clear: both;
+}
+.members {
+	display: inline-block;
+	text-align: center;
+
+}
+.sign1 {
+	font-size: 24px;
+	color: #007765;
+	text-align: center;
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+}
+.sign2 {
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	font-family: Roboto, sans-serif;
+	font-weight: 400;
+}
+.photo {
+}
